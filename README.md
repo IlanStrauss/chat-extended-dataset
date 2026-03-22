@@ -325,8 +325,8 @@ The merged dataset is provided under [CC BY 4.0](https://creativecommons.org/lic
 ## Contact
 
 - **Author**: Ilan Strauss
-- **Email**: [your email]
-- **Institution**: Social Science Research Council / AI Disclosures Project
+- **Email**: ilan@aidisclosures.org
+- **Institution**: AI Disclosures Project (CS&S)
 
 ---
 
